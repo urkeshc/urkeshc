@@ -8,8 +8,7 @@ I'm a Yale University graduate student, currently spending most of my time learn
 - 📫 Reach out to me at urkesh.cusack@yale.edu or connect on GitHub for collaborations or discussions.
 
 ## Languages: 
-![image](https://github.com/urkeshc/urkeshc/assets/97560487/bdfbab08-b3f9-47e5-ad00-21e8e6f89b0a)
-
+python linux solidity bash csharp dotnet git mongodb pandas postgresql postman qt redis
 
 <!--
 **urkeshc/urkeshc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
