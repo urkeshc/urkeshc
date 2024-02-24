@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Yale University graduate student, currently spending most of my time learning about CS / ML. Also interested in quant research / sports betting. 
+
+- 🇫🇷 and 🇬🇧 currently studying in 🇺🇸 
+- 🌱 Grad @ Yale University, Quantitative Asset Management
+- 👨‍💻 Work XP in Dubai and London - Startup + TradFi Trading
+
+
+
 <!--
 **urkeshc/urkeshc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
