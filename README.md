@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 I'm a Yale University graduate student, currently spending most of my time learning about CS / ML. Also interested in quant research / sports betting. 
-
-- 🇫🇷 and 🇬🇧 currently studying in 🇺🇸 
 - 🌱 Grad @ Yale University, Quantitative Asset Management + Research Assistant 
 - 👨‍💻 Work XP in Dubai and London - Startup + TradFi Trading
 - 📫 Reach out to me at urkesh.cusack@yale.edu or connect on GitHub for collaborations or discussions.
+- Originally from France / UK. Currently based in the US. 
 
 Knowledge in Python, Java, Pandas, Pytorch, Git, Adobe Suite
 
