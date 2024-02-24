@@ -7,7 +7,8 @@ I'm a Yale University graduate student, currently spending most of my time learn
 - 👨‍💻 Work XP in Dubai and London - Startup + TradFi Trading
 - 📫 Reach out to me at urkesh.cusack@yale.edu or connect on GitHub for collaborations or discussions.
 
-
+## Languages: 
+![image](https://github.com/urkeshc/urkeshc/assets/97560487/bdfbab08-b3f9-47e5-ad00-21e8e6f89b0a)
 
 
 <!--
