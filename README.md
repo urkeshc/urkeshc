@@ -6,7 +6,7 @@ I'm a Yale University graduate student. I am currently spending most of my time 
 - 📫 Reach out to me at urkesh.cusack@yale.edu or connect on GitHub for collaborations or discussions.
 - Originally from France / UK. Currently based in the US. 
 
-Knowledge in Python, Java, and SQL
+Knowledge in Python, currently learning Java and SQL
 
 
 
