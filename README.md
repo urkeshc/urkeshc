@@ -3,7 +3,7 @@
 I'm a Yale University graduate student. I am currently spending most of my time learning about CS, Machine Learning, Quantitative Investing Strategies, Crypto and Sports Betting. 
 - 🌱 Graduate Student @ Yale University, Quantitative Asset Management + Research Assistant 
 - 👨‍💻 Work Experience in Dubai and London - Startup + Fixed Income Algo-Trading
-- 📫 Reach out to me at urkesh.cusack@yale.edu or connect on GitHub for collaborations or discussions.
+- 📫 Reach out to me at urkesh.cusack@yale.edu or follow me on GitHub for collaborations or discussions.
 - Originally from France / UK. Currently based in the US. 
 
 Knowledge in Python, currently learning Java and SQL
