@@ -6,8 +6,7 @@ I'm a Yale University graduate student. I am currently spending most of my time 
 - 📫 Reach out to me at urkesh.cusack@yale.edu or follow me on GitHub for collaborations or discussions.
 - Originally from France / UK. Currently based in the US. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urkeshc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urkeshc)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
