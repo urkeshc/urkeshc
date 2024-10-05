@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenue sur mon profil
 
 I'm a Yale University graduate student. I am currently spending most of my time learning about CS, Machine Learning, Quantitative Investing Strategies, Crypto and Sports Betting. 
 - 🌱 Graduate Student @ Yale University, Quantitative Asset Management + Research Assistant 
