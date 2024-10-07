@@ -1,6 +1,7 @@
 ### Bienvenue sur mon profil
 
 Interests: Machine learning, systematic and semi-systematic investment strategies, cryptocurrency and meme-coins, algorithmic sports betting
+
 Education: UChicago (CS), Yale University (Quantitative Finance - Asset Management)
 
 <!--
