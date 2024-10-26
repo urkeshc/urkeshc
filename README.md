@@ -6,9 +6,10 @@ Education: UChicago (CS), Yale University (Quant Finance ~ ish)
 
 Languages: French, Java, Python, Sql, Spanish, Bash
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urkeshc&layout=compact)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urkeshc&layout=compact)
+
 **urkeshc/urkeshc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your![python-original](https://github.com/urkeshc/urkeshc/assets/97560487/036c2393-9c1d-4849-adee-245036b0dd44)
  GitHub profile.
 
