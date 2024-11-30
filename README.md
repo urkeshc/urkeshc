@@ -6,8 +6,6 @@ Education: UChicago (CS), Yale University (Quant Finance ~ )
 
 Languages: French, Java, Python, SQL, C, Bash
 
-Nice to meet you and have a great day!
-
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urkeshc&layout=compact)
