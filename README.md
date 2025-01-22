@@ -4,7 +4,7 @@ Interests: Machine learning, coding, systematic and semi-systematic investment s
 
 Education: UChicago (CS), Yale University (Quant Finance ~ )
 
-Languages: French, Java, Python, SQL, C, Bash
+Languages: French, Java, Python, SQL, C, C++
 
 
 <!--
