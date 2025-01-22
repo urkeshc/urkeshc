@@ -1,10 +1,10 @@
 ### Bienvenue sur mon profil
 
-Interests: Machine learning, coding, systematic and semi-systematic investment strategies, cryptocurrency and meme-coins, algorithmic sports betting
+Interets: Machine learning, coding, systematic and semi-systematic investment strategies, cryptocurrency and meme-coins, algorithmic sports betting
 
-Education: UChicago (CS), Yale University (Quant Finance ~ )
+Parcours Universitaire: UChicago (CS), Yale University (Quant Finance ~ )
 
-Languages: French, Java, Python, SQL, C, C++
+Langages: Java, Python, SQL, C, C++, Français, Espagnol
 
 
 <!--
