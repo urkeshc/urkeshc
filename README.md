@@ -4,7 +4,7 @@ Interets: Machine learning, coding, systematic and semi-systematic investment st
 
 Parcours Universitaire: UChicago (CS), Yale University
 
-Langages: Java, Python, SQL, C, C++
+Langages: Java, Python, SQL, C, C++, Golang
 
 
 <!--
